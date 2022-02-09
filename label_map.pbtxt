@@ -1,0 +1,224 @@
+item { 
+	name:'Alto'
+	id:1
+}
+item { 
+	name:'Altroz'
+	id:2
+}
+item { 
+	name:'Amaze'
+	id:3
+}
+item { 
+	name:'Aspire'
+	id:4
+}
+item { 
+	name:'Aura'
+	id:5
+}
+item { 
+	name:'Baleno'
+	id:6
+}
+item { 
+	name:'Bolero'
+	id:7
+}
+item { 
+	name:'Carnival'
+	id:8
+}
+item { 
+	name:'Celerio'
+	id:9
+}
+item { 
+	name:'Ciaz'
+	id:10
+}
+item { 
+	name:'City'
+	id:11
+}
+item { 
+	name:'Compass'
+	id:12
+}
+item { 
+	name:'Creta'
+	id:13
+}
+item { 
+	name:'Duster'
+	id:14
+}
+item { 
+	name:'Dzire'
+	id:15
+}
+item { 
+	name:'Ecosport'
+	id:16
+}
+item { 
+	name:'Eeco'
+	id:17
+}
+item { 
+	name:'Elantra'
+	id:18
+}
+item { 
+	name:'Endeavour'
+	id:19
+}
+item { 
+	name:'Ertiga'
+	id:20
+}
+item { 
+	name:'Figo'
+	id:21
+}
+item { 
+	name:'Fortuner'
+	id:22
+}
+item { 
+	name:'Gloster'
+	id:23
+}
+item { 
+	name:'Go'
+	id:24
+}
+item { 
+	name:'Grand_I10_Nios'
+	id:25
+}
+item { 
+	name:'Harrier'
+	id:26
+}
+item { 
+	name:'Hector'
+	id:27
+}
+item { 
+	name:'I20'
+	id:28
+}
+item { 
+	name:'Ignis'
+	id:29
+}
+item { 
+	name:'Innova'
+	id:30
+}
+item { 
+	name:'Kicks'
+	id:31
+}
+item { 
+	name:'Kiger'
+	id:32
+}
+item { 
+	name:'Kuv_100'
+	id:33
+}
+item { 
+	name:'Kwid'
+	id:34
+}
+item { 
+	name:'Magnite'
+	id:35
+}
+item { 
+	name:'Marazzo'
+	id:36
+}
+item { 
+	name:'Micra'
+	id:37
+}
+item { 
+	name:'Nexon'
+	id:38
+}
+item { 
+	name:'Octavia'
+	id:39
+}
+item { 
+	name:'Polo'
+	id:40
+}
+item { 
+	name:'Rapid'
+	id:41
+}
+item { 
+	name:'S_Cross'
+	id:42
+}
+item { 
+	name:'Scorpio'
+	id:43
+}
+item { 
+	name:'Seltos'
+	id:44
+}
+item { 
+	name:'Sonet'
+	id:45
+}
+item { 
+	name:'Swift'
+	id:46
+}
+item { 
+	name:'Thar'
+	id:47
+}
+item { 
+	name:'Tucson'
+	id:48
+}
+item { 
+	name:'Vento'
+	id:49
+}
+item { 
+	name:'Venue'
+	id:50
+}
+item { 
+	name:'Verna'
+	id:51
+}
+item { 
+	name:'Vitara_Brezza'
+	id:52
+}
+item { 
+	name:'Wagon_R'
+	id:53
+}
+item { 
+	name:'Wrv'
+	id:54
+}
+item { 
+	name:'Xuv300'
+	id:55
+}
+item { 
+	name:'Xuv500'
+	id:56
+}
